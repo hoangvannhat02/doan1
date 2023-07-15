@@ -1,0 +1,7 @@
+hd01#nv01#Hoang Anh Tuan#01/12/2021#hh02#buoi#Ha Giang#100#50000
+hd02#nv02#Dinh Manh Tung#09/10/2021#hh01#chuoi#Viet Nam#50#35000
+hd03#nv02#Dinh Manh Tung#11/10/2021#hh01#chuoi#ha noi#500#100000
+hd04#nv01#Hoang Anh Tuan#01/01/2021#hh04#nho#My#250#100000
+hd05#nv01#Hoang Anh Tuan#10/11/2021#hh02#buoi#vinh phuc#50#22000
+hd06#nv02#Dinh Manh Tung#01/10/2021#hh09#ngo#trung quoc#15#50000
+hdn07#nv01#Hoang Anh Tuan#10/01/2022#hh01#chuoi#ha noi#15#100000

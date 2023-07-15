@@ -1,0 +1,15 @@
+D:\Đồ án 1\DA1\DA1\bin\Debug\DA1.exe.config
+D:\Đồ án 1\DA1\DA1\bin\Debug\DA1.exe
+D:\Đồ án 1\DA1\DA1\bin\Debug\DA1.pdb
+D:\Đồ án 1\DA1\DA1\obj\Debug\DA1.csproj.AssemblyReference.cache
+D:\Đồ án 1\DA1\DA1\obj\Debug\DA1.csproj.CoreCompileInputs.cache
+D:\Đồ án 1\DA1\DA1\obj\Debug\DA1.exe
+D:\Đồ án 1\DA1\DA1\obj\Debug\DA1.pdb
+D:\năm 1\Đồ án 1\DA1\DA1\bin\Debug\DA1.exe.config
+D:\năm 1\Đồ án 1\DA1\DA1\bin\Debug\DA1.exe
+D:\năm 1\Đồ án 1\DA1\DA1\bin\Debug\DA1.pdb
+D:\năm 1\Đồ án 1\DA1\DA1\obj\Debug\DA1.csproj.AssemblyReference.cache
+D:\năm 1\Đồ án 1\DA1\DA1\obj\Debug\DA1.csproj.SuggestedBindingRedirects.cache
+D:\năm 1\Đồ án 1\DA1\DA1\obj\Debug\DA1.csproj.CoreCompileInputs.cache
+D:\năm 1\Đồ án 1\DA1\DA1\obj\Debug\DA1.exe
+D:\năm 1\Đồ án 1\DA1\DA1\obj\Debug\DA1.pdb

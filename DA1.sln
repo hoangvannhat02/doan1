@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA1", "DA1\DA1.csproj", "{E6EFEA3F-23FE-4634-BA92-6BBF707D6ADA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDa1", "..\SetupDa1\SetupDa1.vdproj", "{FC991603-2143-4787-8CCC-0A1B6926A8C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6EFEA3F-23FE-4634-BA92-6BBF707D6ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EFEA3F-23FE-4634-BA92-6BBF707D6ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EFEA3F-23FE-4634-BA92-6BBF707D6ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EFEA3F-23FE-4634-BA92-6BBF707D6ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC991603-2143-4787-8CCC-0A1B6926A8C2}.Debug|Any CPU.ActiveCfg = Debug
+		{FC991603-2143-4787-8CCC-0A1B6926A8C2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BE0ADD-E935-4275-8331-0CFF527DE32C}
+	EndGlobalSection
+EndGlobal

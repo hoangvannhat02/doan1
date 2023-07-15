@@ -1,0 +1,3 @@
+hdx01#kh01#anh#hy#nv01#Hoang Anh Tuan#01/02/2021#hh01#chuoi#1#120000#120000
+hdx02#kh02#Hoang The Anh#Ha Noi#nv01#Hoang Anh Tuan#01/02/2021#hh01#chuoi#1#120000#120000
+hdx03#kh02#Hoang The Anh#Ha Noi#nv01#Hoang Anh Tuan#10/11/2021#hh05#oi#9#12000#108000

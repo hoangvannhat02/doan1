@@ -1,0 +1,7 @@
+hh01#chuoi#ha noi#05/01/2021#507#100000
+hh02#buoi#vinh phuc#01/07/2022#97#22000
+hh04#nho#My#10/11/2021#242#100000
+hh05#oi#ha lan#10/11/2021#0#10000
+hh06#mang cut#viet nam#10/10/2021#99#90000
+hh07#khoai ta#ha noi#09/10/2021#5#15000
+hh09#ngo#trung quoc#01/10/2021#15#50000

@@ -1,0 +1,7 @@
+D:\Đồ án 1\DA1\DA1\bin\Release\DA1.exe.config
+D:\Đồ án 1\DA1\DA1\bin\Release\DA1.exe
+D:\Đồ án 1\DA1\DA1\bin\Release\DA1.pdb
+D:\Đồ án 1\DA1\DA1\obj\Release\DA1.csproj.AssemblyReference.cache
+D:\Đồ án 1\DA1\DA1\obj\Release\DA1.csproj.CoreCompileInputs.cache
+D:\Đồ án 1\DA1\DA1\obj\Release\DA1.exe
+D:\Đồ án 1\DA1\DA1\obj\Release\DA1.pdb
